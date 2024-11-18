@@ -259,3 +259,33 @@ transform: scale(1) !important;
 .logoALange{
     width: 300px;
 }
+
+.Daytona{
+    width: 250px;
+}
+
+.Datejust{
+    width: 250px;
+}
+
+.AcierAp{
+    background-color: #e0e0e0;
+    padding: 40px 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.AcierRolex{
+    background-color: #e0e0e0;
+    padding: 40px 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.AcierDaydate{
+    width: 150px;
+}
+
+.AcierSubmariner{
+    width: 150px;
+}
